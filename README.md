@@ -2,11 +2,13 @@
 
 ## Les t-shirts de l'association.
 
-    Scheme on you !
+```scheme
+(Scheme "on you !")
+```
 
 ######
 
-    Ah sh*t, here we code again.
+    Ah sh*t, here we <code> again.
 
 ######
 
@@ -16,7 +18,15 @@
 
 ```javascript
 //I'm declaring a war !
-var war;
+let war;
+```
+
+######
+
+```javascript
+// Nobody: People change!
+// God:
+const people;
 ```
 
 ######
@@ -47,6 +57,13 @@ class Femme(object):
 
 ```python
 class Fanm(Dyab):
+    ...
+```
+
+######
+
+```python
+class Nomn(Chyen):
     ...
 ```
 
@@ -87,8 +104,8 @@ global a
 
 ######
 
-    - Where do you live?
-    - 127.0.0.1
+    Stay at 127.0.0.1
+    Wear a 255.255.255.0
 
 ######
 
@@ -150,6 +167,37 @@ const code = coffee => magic(coffee);
 
 ######
 
+    Why do web devs wear glasses?
+    Because they don't C#.
+
+######
+
 ```javascript
-! //
+> '2' + 2 - '2'
+< 20
+// because JAVASCRIPT
+```
+
+######
+
+```javascript
+> [] == false && 0 == ''
+< true
+
+> NaN == NaN
+< false
+
+// because JAVASCRIPT
+```
+
+######
+
+```javascript
+> {} + []
+< 0
+
+> [] + {}
+< "[object Object]"
+
+// because JAVASCRIPT
 ```
