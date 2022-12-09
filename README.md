@@ -201,3 +201,8 @@ const code = coffee => magic(coffee);
 
 // because JAVASCRIPT
 ```
+######
+
+```python
+import { drugs } from 'Colombia'
+```
